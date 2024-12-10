@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698492597668",
+    "project_id": "qitoadmin",
+    "storage_bucket": "qitoadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698492597668:android:e372d560128a351573fd31",
+        "android_client_info": {
+          "package_name": "com.vray.qito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvhGOgFgxnyu9RGOJDJ9nsJKnqCAmVcPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
